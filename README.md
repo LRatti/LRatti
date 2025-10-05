@@ -1,5 +1,7 @@
-## Hi there 👋
-
+# Hi — I'm Leonardo 👋
+Software engineer focused on backend & distributed systems (AWS, Docker, Kubernetes).  
+**Top projects:** [OrderStream] — event-driven order processing (ECS + Kinesis). [CacheLab] — Redis caching layer with perf benchmarks.  
+Resume: <link> • LinkedIn: <link>
 <!--
 **LRatti/LRatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
