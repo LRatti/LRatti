@@ -1,18 +1,19 @@
-# Hi — I'm Leonardo 👋
-Software engineer focused on backend & distributed systems (AWS, Docker, Kubernetes).  
-**Top projects:** [OrderStream] — event-driven order processing (ECS + Kinesis). [CacheLab] — Redis caching layer with perf benchmarks.  
-Resume: <link> • LinkedIn: <link>
-<!--
-**LRatti/LRatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi There ! — Leonardo Here 👋
 
-Here are some ideas to get you started:
+## About me
+Currently a MEng Student in Computer Sceince and Engineering @ Polytechnic University of Milan.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies 
+
+<p align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+</p>
+
+##Future steps
+Working on completing my University path and beginning my carrer by collaborating on interesting and exciting projects.
+
+---
+
+<p align="center">If you want to check out my latest work, feel free to take a peek at my pinned repository!</p>
