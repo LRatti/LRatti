@@ -37,7 +37,9 @@ I’m a **Computer Science and Engineering** master’s student focusing on **so
 
 ## 🎯 Career Goals  
 
-I’m eager to **contribute to large-scale, impactful engineering projects** where performance, scalability, and customer focus matter. 
+
+I’m eager to contribute to large-scale, impactful engineering projects where performance, scalability, and customer focus matter. 
+
 ---
 
 ## 📌 Featured Work  
@@ -65,5 +67,3 @@ If you’d like to explore my latest work, check out my pinned repositories belo
 </p>
 
 ---
-
-*Feel fee to check some of my latest wotk.*  
