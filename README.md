@@ -34,7 +34,7 @@ I’m a **Computer Science and Engineering** master’s student focusing on **so
 
 ## 🌱 What I’m Working On  
 
-- Advancing my knowledge in this field
+- Advancing my knowledge
 - Exploring new technologies
 - Completing my University path
 
