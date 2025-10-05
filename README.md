@@ -51,7 +51,8 @@ I’m eager to contribute to large-scale, impactful engineering projects where p
 ## 📌 Featured Work  
 
 <p align="center">
-If you’d like to explore my latest work, check out my pinned repositories below ⬇️  
+If you’d like to explore my latest work, check out my pinned repositories below ⬇️
+Feel free to contact me for any kind of question or dooubt :)
 </p>
 
 ---
