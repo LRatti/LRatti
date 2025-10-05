@@ -40,7 +40,7 @@ I’m a **Computer Science and Engineering** master’s student focusing on **so
 
 ---
 
-## 🎯 Career Goals  
+## 🎯 Goals  
 
 <p align="center">
 I’m eager to contribute to large-scale, impactful engineering projects where performance, scalability, and customer focus matter. 
