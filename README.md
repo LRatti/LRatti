@@ -59,17 +59,14 @@ If you’d like to explore my latest work, check out my pinned repositories belo
 ## 📫 Let’s Connect!  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/leonardo-ratti" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:YOUR.EMAIL@domain.com">
+  <a href="mailto:leonardo.ratti.mail@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/YOUR-GITHUB" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
-  </a>
 </p>
 
 ---
