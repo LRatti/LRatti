@@ -1,7 +1,7 @@
 # 👋 Hi there — Leonardo here!  
 
 🎓 **MEng Student in Computer Science and Engineering**  
-📍 *Polytechnic University of Milan*
+📍 *Politecnico di Milano*
 
 ---
 
