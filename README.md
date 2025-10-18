@@ -7,7 +7,7 @@
 
 ## 🚀 About Me  
 
-I’m a **Computer Science and Engineering** master’s student focusing on **software development** and **machine learning**.  
+I’m a **Computer Science and Engineering** master’s student focusing on **Artificial Intelligence**, **Machine Learning** and **Software Development**.  
 
 💡 I’m particularly interested in:  
 - **Machine Learning & Data-Driven Systems**  
