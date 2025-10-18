@@ -30,10 +30,6 @@ I’m a **Computer Science and Engineering** master’s student focusing on **Ar
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebooks" alt="Jupyter Notebooks" width="60" height="60"/>
-
-  <!-- 📚 Documentation -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" title="LaTeX" alt="LaTeX" width="70" height="70"/>
-
 </div>
 
 
